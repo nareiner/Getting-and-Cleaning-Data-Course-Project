@@ -1,4 +1,4 @@
-The R code called "run_analysis.R" will perform the following (after the file is unzipped and the WD is set:
+The R code called "run_analysis.R" will perform the following (after the file is unzipped and the WD is set):
 1) Load necessary packages (dplyr and data.table)
 2) Reads the Testing and Training data
 3) Reads the Activity Labels and Features
